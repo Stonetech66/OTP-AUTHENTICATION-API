@@ -1,5 +1,5 @@
 <h1 align="center">OTP AUTHENTICATION API</h1>
-This is an OTP authentication API built with django-rest-framework. Integrated Twilio API for OTP code deleivery also made used of celery to handle background tasks.
+This is an OTP authentication API built with django-rest-framework. Integrated Twilio SMS API for OTP code deleivery also makes use of celery to handle background tasks.
 
 ##  Language Used
 - python
